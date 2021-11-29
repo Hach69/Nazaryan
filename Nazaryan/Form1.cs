@@ -20,7 +20,7 @@ namespace Nazaryan
         {
             public int stoimost;
             public int data;
-            public abstract void Info(ListBox l);
+            public abstract void Info(ListBox l); 
             public Detalis ( int stoimostt, int dataa)
             {
                 stoimost = stoimostt;
